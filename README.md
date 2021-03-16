@@ -1,2 +1,2 @@
-# prueba-git
-Repositorio de prueba
+# Repositorio de Yan Sebastián Hoyos
+Repositorio Basico
